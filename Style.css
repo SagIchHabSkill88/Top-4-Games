@@ -7,6 +7,13 @@ h1.Ueberschrift {
 
 
 }
+h1.Ueberschrift2 {
+	text-align:center;
+	font-weight: bold;
+	border-bottom-style: none;
+	font-size: 50px;
+	color : white ;
+}
 h2 {
 	text-align: center;
 	font-weight: bold;
@@ -15,6 +22,22 @@ h2 {
 
 
 }
-body{
+h2.Inhalt {
+	text-align: center;
+	font-weight: bold;
+	margin-left: 50px;
+	margin-top: 150px;
+	color : white;
+}
+body.BildStarWars {
 	background: url(maxresdefault.jpg);
+}
+body.BildClashRoyal {
+	background: url(clash-royale-update-leaks-new-cards-sneak-peek-may-3-legendary-balancing-changes.jpg);
+}
+body.BildBlackOps3 {
+	background: url(call_of_duty_black_ops_iii-wide.jpg);
+}
+body.BildTheDivision {
+	background: url(thedivision03.jpg);
 }
