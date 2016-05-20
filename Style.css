@@ -31,13 +31,22 @@ h2.Inhalt {
 }
 body.BildStarWars {
 	background: url(maxresdefault.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 body.BildClashRoyal {
 	background: url(clash-royale-update-leaks-new-cards-sneak-peek-may-3-legendary-balancing-changes.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 body.BildBlackOps3 {
-	background: url(call_of_duty_black_ops_iii-wide.jpg);
+	background: url(blackops.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
 }
 body.BildTheDivision {
 	background: url(thedivision03.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
