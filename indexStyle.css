@@ -26,3 +26,18 @@ ul{
 	font-size:40px;
     padding-top:150px;
 }
+
+
+a:link {
+  color:#6E6E6E; text-decoration:none
+}
+
+a:visited {
+  color:#6E6E6E; text-decoration:none
+}
+a:active {
+  color:black; text-decoration:none
+}
+a:hover {
+  color:black; text-decoration:none
+}
