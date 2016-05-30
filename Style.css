@@ -25,33 +25,32 @@ h2 {
 h2.Inhalt {
 	text-align: center;
 	font-weight: bold;
-<<<<<<< HEAD
+
 	font-family: Helvetica;
 	margin-left: 50px;
 	margin-top: 120px;
 	color: white;
-=======
+
 	margin-left: 50px;
 	margin-top: 120px;
 	color : white;
->>>>>>> b0bef89e6c2f288dff49668691265f37b632a771
+
 }
 body.BildStarWars {
-	background: url(maxresdefault.jpg);
+	background: url(Bilder/maxresdefault.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
 body.BildClashRoyal {
-	background: url(clash-royale-update-leaks-new-cards-sneak-peek-may-3-legendary-balancing-changes.jpg);
+	background: url(Bilder/clash-royale-update-leaks-new-cards-sneak-peek-may-3-legendary-balancing-changes.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-<<<<<<< HEAD
 
-=======
->>>>>>> b0bef89e6c2f288dff49668691265f37b632a771
+
+
 }
 body.BildBlackOps3 {
-	background: url(blackops.jpg)  ;
+	background: url(Bilder/blackops.jpg)  ;
 	background-repeat: no-repeat;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -61,7 +60,7 @@ body.BildBlackOps3 {
 
 }
 body.BildTheDivision {
-	background: url(thedivision03.jpg);
+	background: url(Bilder/thedivision03.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -72,7 +71,7 @@ button  {
   	border: 1px solid #900;
   	background-color: #FFF;
   	
-<<<<<<< HEAD
+
 }
 
 h2 > p{
@@ -81,6 +80,5 @@ h2 > p{
 }
 h2 > div{
 	color: white;
-=======
->>>>>>> b0bef89e6c2f288dff49668691265f37b632a771
+
 }

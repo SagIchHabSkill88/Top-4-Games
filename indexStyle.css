@@ -1,5 +1,5 @@
 html { 
-  background: url(pic-26115.jpg) no-repeat center center fixed; 
+  background: url(Bilder/pic-26115.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -40,4 +40,8 @@ a:active {
 }
 a:hover {
   color:black; text-decoration:none
+}
+
+div {
+  font-size: 40px;
 }
